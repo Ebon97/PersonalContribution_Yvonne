@@ -1,0 +1,121 @@
+/*Team*/
+*
+{
+    margin:0;
+    padding:0;
+    
+}
+
+.team-section
+{
+    overflow: hidden;
+    text-align: center;
+    padding-top:10px;
+}
+
+.team-section h1
+{
+    text-transform: uppercase;
+    font-size: 48px;
+}
+
+.border
+{
+    display:block;
+    margin:auto;
+    width:160px;
+    height:3px;
+    background: grey;
+    margin-bottom:30px;
+}
+
+.ps
+{
+    margin-bottom:30px;
+}
+
+.ps a 
+{
+    display:inline-block;
+    margin:10px 10px;
+    width:190px;
+    height:190px;
+    overflow: hidden;
+    border-radius: 50%;
+    
+}
+
+.ps a img
+{
+    width:100%;
+    filter:grayscale(100%);
+    transition:0.4s all;
+}
+
+.ps a:hover > img
+{
+    filter:none;
+}
+
+.section
+{
+    width:900px;
+    margin: auto;
+    font-size: 15px;
+    height: 0;
+    overflow: hidden;
+    
+}
+
+.section:target
+{
+    height:auto;
+    
+}
+
+.name
+{
+    display:block;
+    margin-bottom: 5px;
+    text-align:center;
+    text-transform: uppercase;
+    font-size: 30px;
+    
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
